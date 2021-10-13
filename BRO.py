@@ -1,9 +1,3 @@
-"""
-CS 309 - Computational Biology
-Lab 1
-Loc Tran, Phu Nguyen, Hang Ngo
-"""
-
 from enum import unique
 from re import sub
 from Bio import SeqIO
